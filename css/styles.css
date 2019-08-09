@@ -23,3 +23,6 @@ img {
   width: 750px;
   float: right;
 }
+.sidebarleft {
+  float left;
+}
