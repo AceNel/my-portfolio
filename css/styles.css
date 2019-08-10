@@ -1,5 +1,5 @@
 .heading {
-  color: gold;
+  background-color: gold;
   padding-left: 80px;
   text-align: left;
   font-family: serif;
@@ -18,11 +18,12 @@ img {
 }
 .About-me {
   color: black;
-  padding-right: 640px;
+  padding-right: 580px;
   text-align: right;
   font-family: sans-serif;
 }
 .sidebar {
+  background-color: gainsboro;
   width: 750px;
   float: right;
 }
@@ -31,10 +32,14 @@ img {
 .skills {
   float: left;
   width: 1000px;
-  padding-left: 570px;
+  padding-left: 600px;
 }
-.hobbies {
-  float: left;
-  width: 1000px;
-  padding-left: 800px;
+.name{
+  font-weight:bold;
+  padding-left: 80px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 180px;
+
 }
