@@ -23,3 +23,12 @@ img {
   width: 750px;
   float: right;
 }
+.important {
+  background-color: gray;
+}
+.skills {
+  float: left;
+  width: 1000px;
+  padding-left: 200px;
+  padding-top: 50px;
+}
