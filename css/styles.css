@@ -1,6 +1,7 @@
 .heading {
-  background-color: teal;
-  text-align: center;
+  color: yellow;
+  padding-left: 80px;
+  text-align: left;
   font-family: serif;
 }
 img {
