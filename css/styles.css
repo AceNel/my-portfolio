@@ -1,4 +1,5 @@
 .heading {
+  background-color: teal;
   text-align: center;
   font-family: serif;
 }
@@ -26,7 +27,6 @@ img {
 .important {
 }
 .skills {
-  background-color: yellow;
   float: left;
   width: 1000px;
   padding-left: 570px;
