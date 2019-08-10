@@ -1,5 +1,5 @@
 .heading {
-  color: yellow;
+  color: gold;
   padding-left: 80px;
   text-align: left;
   font-family: serif;
@@ -17,6 +17,7 @@ img {
   text-align: right;
 }
 .About-me {
+  color: black;
   padding-right: 640px;
   text-align: right;
   font-family: sans-serif;
