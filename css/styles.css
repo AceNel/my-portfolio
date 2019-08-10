@@ -24,11 +24,15 @@ img {
   float: right;
 }
 .important {
-  background-color: gray;
 }
 .skills {
+  background-color: yellow;
   float: left;
   width: 1000px;
-  padding-left: 200px;
-  padding-top: 50px;
+  padding-left: 570px;
+}
+.hobbies {
+  float: left;
+  width: 1000px;
+  padding-left: 800px;
 }
